@@ -9,7 +9,7 @@ playstore_link                            :                                     
 presskit_download_link                    : https://apps.apple.com/us/app/tsk-notify/id1569894280                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/IMG_9476.PNG                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/screenshots/IMG_9476.PNG                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Taking L’s? For less than a cup of coffee a month, TSK Notify is the most affordable and comprehensive option to keep you in the loop for all things sneakers!
