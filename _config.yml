@@ -34,41 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : THE LATEST SNEAKER NEWS
+    description                           : TSK Notify has you covered when it comes to unreleased kicks. With our insider information we gather we are determined to ensure you have the most up-to-date information nearly as soon as we receive it ourselves!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : COMPREHENSIVE RELEASE GUIDES
+    description                           : Our team over here at TSK Notify is working 24/7 to make sure YOU know which shoes will make you the most profit! Providing resell predictions, whether to cop or not, sell or hold, and retail websites where these shoes can be purchased!
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : REAL-TIME SNEAKER RAFFLES
+    description                           : Our state of the art raffle monitors are connected to provide you with instant posts containing raffle times and links to enter! We only cover the HYPEST of sneakers too, so don’t worry about any other products from any of their respective stores.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : RAFFLE ENTRY TRACKING
+    description                           : No more forgetting! See which sneakers you’ve entered by tapping the checkmark and viewing on your profile tab an overall view of all sneakers you have ever entered raffles for!
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : RELEASE CALENDAR
+    description                           : Read up on our detailed descriptions, images, and in-depth sneaker information. Not to mention our iOS Calendar app implementation as well as our personalized notifications, just a tap away.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : REAL TIME, PERSONALIZED NOTIFICATIONS
+    description                           : How quick are you? Live notifications sent by the professionals here at TSK Notify send out notifications for the HYPEST of posts just hitting the app. Also, utilizing our notification bell button on any sneaker, you will be notified on that release date prior to launch to check TSK Notify for the most up-to-date information to score your pair!
     fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
